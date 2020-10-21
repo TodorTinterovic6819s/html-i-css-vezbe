@@ -1,0 +1,114 @@
+*{
+    padding: 0px;
+    margin:  0px;
+   font-family: sans-serif;
+
+}
+table {
+
+    width: 130px;
+}
+
+table, th, td {
+    border: 2px solid green;
+    border-collapse: collapse;
+    
+}
+
+th:nth-child(1) {
+
+    background: lightskyblue;
+    text-align: center;
+}
+th:nth-child(2) {
+
+    background: yellow;
+    text-align: right;
+}
+th:nth-child(3) {
+
+    background: lightgreen;
+    text-align: left;
+}
+
+td:nth-child(1) {
+
+    background: lightskyblue;
+    text-align: center;
+
+}
+td:nth-child(2) {
+
+    background: yellow;
+    text-align: right;
+
+}
+td:nth-child(3) {
+
+    background: lightgreen;
+    text-align: left;
+
+}
+#moj_id {
+    background: lightgreen;
+    color: red;
+}
+
+.moja_klasa {
+
+    width: 500px;
+    text-align: center;
+    border: 3px solid green;
+    padding: 15px;
+    margin: 20px;
+    
+
+}
+
+
+#id_1 {
+
+    line-height: 25px;
+    font-size: 15px;
+ 
+
+
+}
+div {
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+button {
+
+    width: 130px;
+    height: 25px;
+
+}
+label {
+    display: inline-block;
+    width: 60px;
+    clear: center;
+    text-align: right;
+
+}
+
+input {
+
+    display: inline-block;
+    width: 250px;
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
